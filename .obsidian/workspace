@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "3a8a61d74fdb9eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2777558ec5f711b1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac1e71155dac4adf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca07d39f509d8dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e349a63f817f903f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "76bcbca03b362b1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4826b67183fedcdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c87f22bfcc24ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e7b314e49d1427",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2777558ec5f711b1",
+  "lastOpenFiles": [
+    "tools/tools.md",
+    "tools/font-tools.md",
+    "tools/css-tools.md"
+  ]
+}
