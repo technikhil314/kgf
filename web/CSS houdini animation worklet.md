@@ -1,7 +1,7 @@
 # Css houdini animation worklets
 
 - This is behind feature flags on chrome under Experimental Web Platform section.
-  - This is extension to existing [[animation-js-web-api]]
+  - This is extension to existing [[Animation with JS web api]]
   - You can have more control over animation such as how time progresses for each animation etc.
   - more on [this link](https://developers.google.com/web/updates/2018/10/animation-worklet)
 

@@ -1,0 +1,1 @@
+[TimeOrigin](https://developer.mozilla.org/en-US/docs/Web/API/Performance/timeOrigin) → this value represents the time when navigation has started
