@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "45217bed95f20572",
+        "id": "5cefdea3de22d029",
         "type": "tabs",
         "children": [
           {
-            "id": "ca247e108da97665",
+            "id": "8f23e96b502063dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "683e497dbf7516b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d36ea110900b3660",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bee902a23fc87d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7976b596b81fed73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c969fc66a7c661b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff822f81f9b4b5ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/Performance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "560ec137ef0066e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/Performance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Viewport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,9 +107,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "560ec137ef0066e6",
+  "active": "e349a63f817f903f",
   "lastOpenFiles": [
+    "web/js.md",
+    "tools/Media Tools.md",
+    "tools/tools.md",
+    "web/css.md",
     "web/Performance.md",
+    "web/Vertical responsiveness.md",
+    "web/Visual viewport.md",
+    "web/html.md",
+    "web/Typescript.md",
+    "tools/Tools for developers.md",
+    "web/New Css Features.md",
     "web/Performance Analysis.md",
     "web/Web.md",
     "web/JS Media queries.md",
@@ -211,21 +131,11 @@
     "web/Correct way for defining css breakpoints.md",
     "web/CSS.md",
     "web/CSS Houdini.md",
-    "web/Vertical responsiveness.md",
     "web/Horizontal Responsiveness.md",
     "web/Responsiveness.md",
     "web/Security.md",
     "Untitled",
     "web/JS.md",
-    "tools/CSS tools.md",
-    "tools/Web security tools.md",
-    "tools/Web performance tools.md",
-    "tools/Tools.md",
-    "tools/Image tools.md",
-    "tools/Font Tools.md",
-    "Canvas/Demo.canvas",
-    "web/CSS houdini animation worklet.md",
-    "web/animation-js-web-api.md",
-    "web/animation.md"
+    "Canvas/Demo.canvas"
   ]
 }
